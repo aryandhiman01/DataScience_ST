@@ -181,13 +181,10 @@ The goal of this repository is to document my learning journey from Data Science
 <pre>
 DataScience_ST
 │
-├── 11_june_class.ipynb
-├── 12_june_ST.ipynb
-├── NumPy_Student_Workbook.ipynb
-│
-├── NumPy Fundamentals
-├── Pandas Basics
-├── Workbook Solutions
+├── 11_june_class.ipynb          (Class Exercises)
+├── 12_june_ST.ipynb              (Training Session Notes)
+├── NumPy_Student_Workbook (1).ipynb  (NumPy Practice)
+├── README.md                     (Documentation)
 │
 └── Future Modules
     ├── Data Visualization
