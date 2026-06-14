@@ -1,4 +1,4 @@
-```html
+<html
 <h1 align="center">📊 Data Science Summer Training 2026</h1>
 
 <p align="center">
