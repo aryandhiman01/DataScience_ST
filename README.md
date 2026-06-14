@@ -1,3 +1,4 @@
+```html
 <h1 align="center">📊 Data Science Summer Training 2026</h1>
 
 <p align="center">
@@ -7,35 +8,37 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
 </p>
 
-<h3 align="center">
-🚀 Learning Data Science with Python, NumPy & Pandas
-</h3>
+<h2 align="center">🚀 Data Science Learning Journey</h2>
+
+<p align="center">
+Python • NumPy • Pandas • Data Analysis
+</p>
 
 <hr>
 
 <h2>📌 About This Repository</h2>
 
 <p>
-This repository contains all notebooks, assignments, practice exercises, and hands-on work completed during my <b>Data Science Summer Training Program</b>.
-The goal of this repository is to document my learning journey from Data Science fundamentals to advanced concepts using Python and its powerful libraries.
+This repository contains notebooks, assignments, exercises, and practical work completed during my <b>Data Science Summer Training Program 2026</b>.
+It documents my journey of learning Data Science fundamentals, data analysis, and numerical computing using Python and industry-standard libraries.
 </p>
 
 <hr>
 
-<h2>🎯 Training Objectives</h2>
+<h2>🎯 Training Goals</h2>
 
 <ul>
-  <li>Build strong foundations in Data Science</li>
-  <li>Learn numerical computing using NumPy</li>
-  <li>Perform data analysis using Pandas</li>
-  <li>Develop problem-solving skills through practical exercises</li>
-  <li>Prepare for Machine Learning and AI concepts</li>
-  <li>Work with real-world datasets</li>
+  <li>✅ Build strong Python programming skills</li>
+  <li>✅ Master numerical computing using NumPy</li>
+  <li>✅ Analyze and manipulate data using Pandas</li>
+  <li>✅ Develop problem-solving abilities through practical exercises</li>
+  <li>✅ Understand real-world data handling techniques</li>
+  <li>✅ Prepare for Machine Learning and Artificial Intelligence</li>
 </ul>
 
 <hr>
 
-<h2>🛠 Technologies Used</h2>
+<h2>🛠️ Technology Stack</h2>
 
 <h3>Programming Language</h3>
 <ul>
@@ -48,11 +51,11 @@ The goal of this repository is to document my learning journey from Data Science
   <li>📊 Pandas</li>
 </ul>
 
-<h3>Development Environment</h3>
+<h3>Development Tools</h3>
 <ul>
   <li>Jupyter Notebook</li>
-  <li>Anaconda</li>
   <li>VS Code</li>
+  <li>Anaconda</li>
 </ul>
 
 <hr>
@@ -81,40 +84,46 @@ The goal of this repository is to document my learning journey from Data Science
   <li>reshape()</li>
   <li>astype()</li>
   <li>copy()</li>
+  <li>flatten()</li>
 </ul>
 
-<h3>Indexing & Slicing</h3>
+<h3>Indexing &amp; Slicing</h3>
 <ul>
   <li>Element Access</li>
   <li>Row Selection</li>
   <li>Column Selection</li>
-  <li>Multi-dimensional Indexing</li>
+  <li>Multi-Dimensional Indexing</li>
+  <li>Advanced Slicing</li>
 </ul>
 
-<h3>Array Operations</h3>
+<h3>Mathematical Operations</h3>
 <ul>
   <li>Addition</li>
   <li>Subtraction</li>
-  <li>Mathematical Operations</li>
+  <li>Multiplication</li>
+  <li>Division</li>
+  <li>Power Operations</li>
 </ul>
 
 <h3>Joining Arrays</h3>
 <ul>
   <li>np.concatenate()</li>
-  <li>Joining Arrays Along Rows (axis=0)</li>
-  <li>Joining Arrays Along Columns (axis=1)</li>
+  <li>np.vstack()</li>
+  <li>np.hstack()</li>
 </ul>
 
 <h3>Splitting Arrays</h3>
 <ul>
   <li>np.array_split()</li>
+  <li>np.hsplit()</li>
+  <li>np.vsplit()</li>
 </ul>
 
 <h3>Iteration</h3>
 <ul>
-  <li>For Loop Iteration</li>
-  <li>While Loop Iteration</li>
-  <li>Multi-Dimensional Array Traversal</li>
+  <li>For Loop Traversal</li>
+  <li>While Loop Traversal</li>
+  <li>Multi-Dimensional Iteration</li>
 </ul>
 
 <h3>Aggregation Functions</h3>
@@ -125,54 +134,65 @@ The goal of this repository is to document my learning journey from Data Science
   <li>np.min()</li>
   <li>np.max()</li>
   <li>np.argmax()</li>
+  <li>np.argmin()</li>
 </ul>
 
 <hr>
 
 <h2>📊 Pandas Concepts Covered</h2>
 
-<h3>Pandas Basics</h3>
+<h3>Pandas Fundamentals</h3>
 <ul>
-  <li>Pandas Installation</li>
+  <li>Installation</li>
+  <li>Importing Library</li>
   <li>Version Checking</li>
-  <li>Importing Pandas Library</li>
 </ul>
 
 <h3>Series</h3>
 <ul>
   <li>Creating Series</li>
-  <li>Displaying Series Data</li>
-  <li>Working with Index Values</li>
+  <li>Custom Indexing</li>
+  <li>Accessing Values</li>
+  <li>Working with Labels</li>
 </ul>
 
 <h3>Data Structures</h3>
 <ul>
   <li>Pandas Series</li>
-  <li>Relationship between NumPy and Pandas</li>
+  <li>NumPy vs Pandas</li>
+  <li>Data Handling Basics</li>
 </ul>
 
-<h3>Documentation & Exploration</h3>
+<h3>Documentation &amp; Exploration</h3>
 <ul>
-  <li>Using help() Function</li>
-  <li>Understanding Series Methods</li>
-  <li>Exploring Pandas Features</li>
+  <li>help()</li>
+  <li>dir()</li>
+  <li>info()</li>
+  <li>Understanding Pandas Documentation</li>
+  <li>Exploring Built-in Methods</li>
 </ul>
 
 <hr>
 
-<h2>📚 Practice Workbook Completed</h2>
+<h2>📚 Practical Work Completed</h2>
 
-<ul>
-  <li>✅ Array Creation</li>
-  <li>✅ Shape, Size & Dimensions</li>
-  <li>✅ Data Type Conversion</li>
-  <li>✅ Reshaping Arrays</li>
-  <li>✅ Array Indexing</li>
-  <li>✅ Array Slicing</li>
-  <li>✅ Row & Column Extraction</li>
-  <li>✅ Matrix Operations</li>
-  <li>✅ Array Traversal</li>
-</ul>
+<table>
+<tr>
+<th>Task</th>
+<th>Status</th>
+</tr>
+
+<tr><td>Array Creation</td><td>✅</td></tr>
+<tr><td>Shape & Dimensions</td><td>✅</td></tr>
+<tr><td>Data Types</td><td>✅</td></tr>
+<tr><td>Reshaping Arrays</td><td>✅</td></tr>
+<tr><td>Indexing Arrays</td><td>✅</td></tr>
+<tr><td>Array Slicing</td><td>✅</td></tr>
+<tr><td>Matrix Operations</td><td>✅</td></tr>
+<tr><td>Statistical Functions</td><td>✅</td></tr>
+<tr><td>Array Traversal</td><td>✅</td></tr>
+<tr><td>Pandas Series Practice</td><td>✅</td></tr>
+</table>
 
 <hr>
 
@@ -181,15 +201,18 @@ The goal of this repository is to document my learning journey from Data Science
 <pre>
 DataScience_ST
 │
-├── 11_june_class.ipynb          (Class Exercises)
-├── 12_june_ST.ipynb              (Training Session Notes)
-├── NumPy_Student_Workbook (1).ipynb  (NumPy Practice)
-├── README.md                     (Documentation)
+├── 11_june_class.ipynb
+├── 12_june_ST.ipynb
+├── NumPy_Student_Workbook.ipynb
+├── README.md
 │
 └── Future Modules
-    ├── Data Visualization
+    ├── Matplotlib
+    ├── Seaborn
     ├── Statistics
     ├── Probability
+    ├── EDA
+    └── Machine Learning
 </pre>
 
 <hr>
@@ -202,26 +225,15 @@ DataScience_ST
 <th>Status</th>
 </tr>
 
-<tr>
-<td>Python Basics</td>
-<td>✅ Completed</td>
-</tr>
-
-<tr>
-<td>NumPy Fundamentals</td>
-<td>✅ Completed</td>
-</tr>
-
-<tr>
-<td>NumPy Workbook</td>
-<td>✅ Completed</td>
-</tr>
-
-<tr>
-<td>Pandas Basics</td>
-<td>✅ Completed</td>
-</tr>
-
+<tr><td>Python Basics</td><td>✅ Completed</td></tr>
+<tr><td>NumPy Fundamentals</td><td>✅ Completed</td></tr>
+<tr><td>NumPy Workbook</td><td>✅ Completed</td></tr>
+<tr><td>Pandas Basics</td><td>✅ Completed</td></tr>
+<tr><td>Data Visualization</td><td>🔄 Upcoming</td></tr>
+<tr><td>Statistics</td><td>🔄 Upcoming</td></tr>
+<tr><td>Probability</td><td>🔄 Upcoming</td></tr>
+<tr><td>EDA</td><td>🔄 Upcoming</td></tr>
+<tr><td>Machine Learning</td><td>⏳ Future</td></tr>
 </table>
 
 <hr>
@@ -229,13 +241,13 @@ DataScience_ST
 <h2>🚀 Upcoming Topics</h2>
 
 <ul>
-  <li>Matplotlib</li>
-  <li>Seaborn</li>
-  <li>Data Visualization</li>
-  <li>Statistics for Data Science</li>
-  <li>Probability Concepts</li>
-  <li>Exploratory Data Analysis (EDA)</li>
-  <li>Real-World Data Science Projects</li>
+  <li>📊 Matplotlib</li>
+  <li>🎨 Seaborn</li>
+  <li>📈 Statistics</li>
+  <li>🎲 Probability</li>
+  <li>🔍 Exploratory Data Analysis (EDA)</li>
+  <li>🤖 Machine Learning Fundamentals</li>
+  <li>📂 Real-World Data Science Projects</li>
 </ul>
 
 <hr>
@@ -245,11 +257,26 @@ DataScience_ST
 <ul>
   <li>Create and manipulate NumPy arrays efficiently</li>
   <li>Perform numerical computations and statistical analysis</li>
-  <li>Join, split, reshape and transform arrays</li>
-  <li>Work with Pandas Series and data structures</li>
-  <li>Understand data analysis fundamentals</li>
-  <li>Solve practical Data Science exercises</li>
+  <li>Analyze structured data using Pandas</li>
+  <li>Transform, reshape, join and split datasets</li>
+  <li>Apply Data Science concepts to practical problems</li>
+  <li>Build a strong foundation for Machine Learning</li>
 </ul>
+
+<hr>
+
+<h2>📊 Current Progress</h2>
+
+<pre>
+Python Basics       ██████████ 100%
+NumPy               ██████████ 100%
+Pandas              ██████████ 100%
+Matplotlib          ░░░░░░░░░░   0%
+Statistics          ░░░░░░░░░░   0%
+Probability         ░░░░░░░░░░   0%
+EDA                 ░░░░░░░░░░   0%
+Machine Learning    ░░░░░░░░░░   0%
+</pre>
 
 <hr>
 
@@ -257,15 +284,14 @@ DataScience_ST
 
 <p>
 <b>Aryan Dhiman</b><br>
-Python • NumPy • Pandas
+Python Developer • Data Science Enthusiast
 </p>
 
 <hr>
 
-<h3 align="center">
-⭐ If you find this repository useful, don't forget to Star it!
-</h3>
+<h3 align="center">⭐ If you find this repository useful, don't forget to Star it!</h3>
 
 <p align="center">
 🚀 Learning Data Science One Notebook at a Time
 </p>
+```
