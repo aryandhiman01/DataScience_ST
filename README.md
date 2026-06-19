@@ -8,8 +8,6 @@
   <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
 </p>
 
-<h2 align="center">🚀 Data Science Learning Journey</h2>
-
 <p align="center">
 Python • NumPy • Pandas • Data Analysis
 </p>
