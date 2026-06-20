@@ -5,11 +5,12 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/NumPy-Completed-success?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/Status-In%20Progress-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Matplotlib-In%20Progress-yellow?style=for-the-badge&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
 
 <p align="center">
-Python • NumPy • Pandas • Data Analysis
+Python • NumPy • Pandas • Matplotlib • Data Analysis • Real-World Projects
 </p>
 
 <hr>
@@ -47,6 +48,7 @@ It documents my journey of learning Data Science fundamentals, data analysis, an
 <ul>
   <li>🔢 NumPy</li>
   <li>📊 Pandas</li>
+  <li>📈 Matplotlib</li>
 </ul>
 
 <h3>Development Tools</h3>
@@ -194,28 +196,74 @@ It documents my journey of learning Data Science fundamentals, data analysis, an
 
 <hr>
 
+<h2>🎯 Projects & Assignments</h2>
+
+<table>
+<tr>
+<th>Project Name</th>
+<th>Description</th>
+<th>Status</th>
+</tr>
+
+<tr><td>Mini Project 1</td><td>Foundational data analysis project</td><td>✅ Completed</td></tr>
+<tr><td>IPL Task</td><td>Indian Premier League dataset analysis</td><td>✅ Completed</td></tr>
+<tr><td>ZBike Rentals</td><td>Bike rental data analysis and visualization</td><td>✅ Completed</td></tr>
+<tr><td>DS Batch 4 (TEST 1)</td><td>Batch assessment/test project</td><td>✅ Completed</td></tr>
+</table>
+
+<hr>
+
 <h2>📁 Repository Structure</h2>
 
 <pre>
-DataScience_ST
+DataScience_ST/
 │
-├── 11_june_class.ipynb
-├── 12_june_ST.ipynb
-├── NumPy_Student_Workbook.ipynb
-├── README.md
+├── 📓 Class Notes & Practice
+│   ├── 11_June_ST.ipynb
+│   ├── 12_june_ST.ipynb
+│   ├── 15_June_ST.ipynb
+│   ├── 16_June_ST.ipynb
+│   ├── 17_June_ST.ipynb
+│   ├── NumPy_Student_Workbook (1).ipynb
+│   ├── Intro_to_Matplotlib.ipynb
+│   └── DS_Batch_4(TEST_1).ipynb
 │
-└── Future Modules
-    ├── Matplotlib
-    ├── Seaborn
-    ├── Statistics
-    ├── Probability
-    ├── EDA
-    └── Machine Learning
+├── 🎯 Projects & Assignments
+│   ├── Mini_Project_1.ipynb
+│   ├── IPL_Task.ipynb
+│   └── Zbike_rentals_solutions.ipynb
+│
+├── 📂 Datasets
+│   ├── data.csv
+│   ├── IPL.csv
+│   ├── NetFlix.csv
+│   ├── Sleep_health_and_lifestyle_dataset.csv
+│   ├── ZBike_Rentals_Data.csv
+│   └── Lifestyle_Dynamics_Framework_Final.csv
+│
+└── README.md
 </pre>
 
 <hr>
 
-<h2>📈 Progress Tracker</h2>
+<h2>� Datasets Used</h2>
+
+<table>
+<tr>
+<th>Dataset</th>
+<th>Description</th>
+<th>Use Case</th>
+</tr>
+
+<tr><td>IPL.csv</td><td>Indian Premier League cricket data</td><td>IPL Task project</td></tr>
+<tr><td>ZBike_Rentals_Data.csv</td><td>Bike sharing rental data</td><td>ZBike Rentals analysis</td></tr>
+<tr><td>NetFlix.csv</td><td>Netflix shows and movies dataset</td><td>Data exploration</td></tr>
+<tr><td>Sleep_health_and_lifestyle_dataset.csv</td><td>Health and sleep metrics</td><td>Health data analysis</td></tr>
+<tr><td>Lifestyle_Dynamics_Framework_Final.csv</td><td>Lifestyle metrics analysis</td><td>Lifestyle trends</td></tr>
+<tr><td>data.csv</td><td>General dataset</td><td>Practice exercises</td></tr>
+</table>
+
+<hr>
 
 <table>
 <tr>
@@ -227,7 +275,8 @@ DataScience_ST
 <tr><td>NumPy Fundamentals</td><td>✅ Completed</td></tr>
 <tr><td>NumPy Workbook</td><td>✅ Completed</td></tr>
 <tr><td>Pandas Basics</td><td>✅ Completed</td></tr>
-<tr><td>Data Visualization</td><td>🔄 Upcoming</td></tr>
+<tr><td>Data Visualization (Matplotlib)</td><td>✅ In Progress</td></tr>
+<tr><td>Practical Projects</td><td>✅ In Progress</td></tr>
 <tr><td>Statistics</td><td>🔄 Upcoming</td></tr>
 <tr><td>Probability</td><td>🔄 Upcoming</td></tr>
 <tr><td>EDA</td><td>🔄 Upcoming</td></tr>
@@ -239,13 +288,11 @@ DataScience_ST
 <h2>🚀 Upcoming Topics</h2>
 
 <ul>
-  <li>📊 Matplotlib</li>
-  <li>🎨 Seaborn</li>
-  <li>📈 Statistics</li>
-  <li>🎲 Probability</li>
+  <li>🎨 Seaborn & Advanced Visualization</li>
+  <li>📈 Statistics & Probability</li>
   <li>🔍 Exploratory Data Analysis (EDA)</li>
   <li>🤖 Machine Learning Fundamentals</li>
-  <li>📂 Real-World Data Science Projects</li>
+  <li>📂 Advanced Real-World Data Science Projects</li>
 </ul>
 
 <hr>
@@ -269,7 +316,9 @@ DataScience_ST
 Python Basics       ██████████ 100%
 NumPy               ██████████ 100%
 Pandas              ██████████ 100%
-Matplotlib          ░░░░░░░░░░   0%
+Matplotlib          ████████░░  80%
+Data Visualization  ████████░░  80%
+Practical Projects  ██████████ 100%
 Statistics          ░░░░░░░░░░   0%
 Probability         ░░░░░░░░░░   0%
 EDA                 ░░░░░░░░░░   0%
