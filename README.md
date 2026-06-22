@@ -5,7 +5,8 @@
   <img src="https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python" />
   <img src="https://img.shields.io/badge/NumPy-Completed-success?style=for-the-badge&logo=numpy" />
   <img src="https://img.shields.io/badge/Pandas-Completed-success?style=for-the-badge&logo=pandas" />
-  <img src="https://img.shields.io/badge/Matplotlib-In%20Progress-yellow?style=for-the-badge&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/Matplotlib-Completed-success?style=for-the-badge&logo=matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-Completed-success?style=for-the-badge&logo=seaborn" />
   <img src="https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge" />
 </p>
 
@@ -49,6 +50,7 @@ It documents my journey of learning Data Science fundamentals, data analysis, an
   <li>🔢 NumPy</li>
   <li>📊 Pandas</li>
   <li>📈 Matplotlib</li>
+  <li>🎨 Seaborn</li>
 </ul>
 
 <h3>Development Tools</h3>
@@ -275,12 +277,9 @@ DataScience_ST/
 <tr><td>NumPy Fundamentals</td><td>✅ Completed</td></tr>
 <tr><td>NumPy Workbook</td><td>✅ Completed</td></tr>
 <tr><td>Pandas Basics</td><td>✅ Completed</td></tr>
-<tr><td>Data Visualization (Matplotlib)</td><td>✅ In Progress</td></tr>
+<tr><td>Matplotlib</td><td>✅ Completed</td></tr>
+<tr><td>Seaborn</td><td>✅ Completed</td></tr>
 <tr><td>Practical Projects</td><td>✅ In Progress</td></tr>
-<tr><td>Statistics</td><td>🔄 Upcoming</td></tr>
-<tr><td>Probability</td><td>🔄 Upcoming</td></tr>
-<tr><td>EDA</td><td>🔄 Upcoming</td></tr>
-<tr><td>Machine Learning</td><td>⏳ Future</td></tr>
 </table>
 
 <hr>
@@ -288,7 +287,6 @@ DataScience_ST/
 <h2>🚀 Upcoming Topics</h2>
 
 <ul>
-  <li>🎨 Seaborn & Advanced Visualization</li>
   <li>📈 Statistics & Probability</li>
   <li>🔍 Exploratory Data Analysis (EDA)</li>
   <li>🤖 Machine Learning Fundamentals</li>
@@ -316,13 +314,10 @@ DataScience_ST/
 Python Basics       ██████████ 100%
 NumPy               ██████████ 100%
 Pandas              ██████████ 100%
-Matplotlib          ████████░░  80%
-Data Visualization  ████████░░  80%
+Matplotlib          ██████████ 100%
+Seaborn             ██████████ 100%
+Data Visualization  ██████████ 100%
 Practical Projects  ██████████ 100%
-Statistics          ░░░░░░░░░░   0%
-Probability         ░░░░░░░░░░   0%
-EDA                 ░░░░░░░░░░   0%
-Machine Learning    ░░░░░░░░░░   0%
 </pre>
 
 <hr>
